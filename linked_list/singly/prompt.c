@@ -32,6 +32,7 @@ int main()
 		}
 	}
 	temp = head;
+
 	while (temp != NULL)
 	{
 		printf("sum of %d\n ", temp->num);
